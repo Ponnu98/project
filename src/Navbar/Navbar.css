@@ -1,0 +1,38 @@
+/* .sd{
+    -webkit-text-fill-color: white;
+    
+    
+}
+.sx{
+    -webkit-text-fill-color: white;
+    
+} */
+.gh{
+    background-color: blue;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+ .liji{
+    -webkit-text-fill-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+ }
+
+ .ponnu{
+    -webkit-text-fill-color: white;
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+    margin: 50px;
+  }
+  .sruthy{
+    -webkit-text-fill-color: white;
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+  } 

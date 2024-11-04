@@ -1,0 +1,92 @@
+/* .shy{
+    background-color: rgb(192, 239, 22) !important;
+    justify-content: center;
+    display: flex;
+    align-items: center; */
+    /* .ponnus{
+        align-items: center;
+        display: block;
+        justify-content: center;
+        text-align: center;
+        justify-content: center;
+
+    } */
+    
+    
+
+/* .liji{
+    -webkit-text-fill-color:black;
+    display: block; 
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+.srut{
+    -webkit-text-fill-color: black;
+    display: block;
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+    margin:5px;
+    padding: 1px;
+}
+.kamala{
+    -webkit-text-fill-color:black;
+    display: block;
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+    
+}
+.kochu{
+    text-align: center;
+    display: block;
+    justify-items: center;
+    justify-content: center;
+     margin: 25px;
+} */
+ .picture{
+    /* text-align: center;
+    display: block;
+    justify-items: center;
+    justify-content: center; */
+    display: flex!important;
+    align-items: center !important;
+    justify-content: center !important;
+    margin-right: 680px!important;
+    margin-left: 640px!important;
+    
+ }
+ .content{
+    align-items: center;
+    margin-right: 200px;
+    margin-left: 500px;
+ }
+
+ .fb{
+    margin-left:5px!important;
+    margin-right: 5px !important;
+    
+ }
+
+ .ins{
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+    
+
+ }
+
+ .whats{
+    margin-left: 5px !important;
+    margin-right: 4px !important;
+    
+
+ }
+
+ .first{
+    margin-left: 600px;
+ }
+
+ .footer{
+    margin-left: 300px;
+ }
